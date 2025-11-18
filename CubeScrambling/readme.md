@@ -2,10 +2,10 @@
 Nagy Botond-Vilmos
 
 # Description
-This is project that I made for the `Probability and Statistics` course at the at my university.
+This is a project that I made for the `Probability and Statistics` course at my university.
 
 # Context
-Suppose that we have a Rubik's cube, but with the faces of a standard die in the following way:
+Suppose that we have a Rubik's cube, but with the faces of a standard D6 die in the following way:
 - the front face is 2
 oxx
 xxx
